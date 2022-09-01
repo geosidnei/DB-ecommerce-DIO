@@ -37,4 +37,8 @@ Entidades Principais:
 - Inserir a indicação de quem vende e entrega o produto;
 - Inserir indicação de produto disponível.
 
+Abaixo temos a imagem da modelagem feita no MySQL Workbench para Linux:
+
 ![e-commerce-refinado](https://github.com/geosidnei/DB-ecommerce-DIO/blob/main/e-commerce-refinado.png)
+
+Data da entrega: 1° de Setembro de 2022
