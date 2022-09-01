@@ -37,4 +37,4 @@ Entidades Principais:
 - Inserir a indicação de quem vende e entrega o produto;
 - Inserir indicação de produto disponível.
 
-![Img1_script](https://github.com/geosidnei/iac2-linux-web-server/blob/main/Img1_script.png)
+![e-commerce-refinado](https://github.com/geosidnei/DB-ecommerce-DIO/blob/main/e-commerce-refinado.png)
