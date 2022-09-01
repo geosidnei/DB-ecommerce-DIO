@@ -36,3 +36,5 @@ Entidades Principais:
 - Terceiros podem utilizar o site para realizar venda;
 - Inserir a indicação de quem vende e entrega o produto;
 - Inserir indicação de produto disponível.
+
+![Img1_script](https://github.com/geosidnei/iac2-linux-web-server/blob/main/Img1_script.png)
